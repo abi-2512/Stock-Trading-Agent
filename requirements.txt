@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+torchvision
+torchsummary
+scikit-learn
+gym
+yfinance
+multiprocessing
